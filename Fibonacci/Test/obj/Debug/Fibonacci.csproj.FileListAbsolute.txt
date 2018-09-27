@@ -1,0 +1,7 @@
+D:\GIT\Fibonacci\Test\bin\Debug\Test.exe.config
+D:\GIT\Fibonacci\Test\bin\Debug\Test.exe
+D:\GIT\Fibonacci\Test\bin\Debug\Test.pdb
+D:\GIT\Fibonacci\Test\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+D:\GIT\Fibonacci\Test\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\GIT\Fibonacci\Test\obj\Debug\Test.exe
+D:\GIT\Fibonacci\Test\obj\Debug\Test.pdb

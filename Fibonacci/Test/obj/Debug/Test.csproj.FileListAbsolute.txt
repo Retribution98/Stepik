@@ -1,0 +1,7 @@
+c:\users\кирилл суворов\source\repos\Test\Test\bin\Debug\Test.exe.config
+c:\users\кирилл суворов\source\repos\Test\Test\bin\Debug\Test.exe
+c:\users\кирилл суворов\source\repos\Test\Test\bin\Debug\Test.pdb
+c:\users\кирилл суворов\source\repos\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\кирилл суворов\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+c:\users\кирилл суворов\source\repos\Test\Test\obj\Debug\Test.exe
+c:\users\кирилл суворов\source\repos\Test\Test\obj\Debug\Test.pdb
